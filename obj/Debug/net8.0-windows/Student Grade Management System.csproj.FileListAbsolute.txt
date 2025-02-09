@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\Student Grade Management System\bin\Debug\net8.0-windows\Student Grade Management System.exe
+C:\Users\pc\Desktop\Student Grade Management System\bin\Debug\net8.0-windows\Student Grade Management System.deps.json
+C:\Users\pc\Desktop\Student Grade Management System\bin\Debug\net8.0-windows\Student Grade Management System.runtimeconfig.json
+C:\Users\pc\Desktop\Student Grade Management System\bin\Debug\net8.0-windows\Student Grade Management System.dll
+C:\Users\pc\Desktop\Student Grade Management System\bin\Debug\net8.0-windows\Student Grade Management System.pdb
+C:\Users\pc\Desktop\Student Grade Management System\obj\Debug\net8.0-windows\Student_Grade_Management_System.Form1.resources
+C:\Users\pc\Desktop\Student Grade Management System\obj\Debug\net8.0-windows\Student Grade Management System.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Student Grade Management System\obj\Debug\net8.0-windows\Student Grade Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Student Grade Management System\obj\Debug\net8.0-windows\Student Grade Management System.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Student Grade Management System\obj\Debug\net8.0-windows\Student Grade Management System.AssemblyInfo.cs
+C:\Users\pc\Desktop\Student Grade Management System\obj\Debug\net8.0-windows\Student Grade Management System.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Student Grade Management System\obj\Debug\net8.0-windows\Student Grade Management System.dll
+C:\Users\pc\Desktop\Student Grade Management System\obj\Debug\net8.0-windows\refint\Student Grade Management System.dll
+C:\Users\pc\Desktop\Student Grade Management System\obj\Debug\net8.0-windows\Student Grade Management System.pdb
+C:\Users\pc\Desktop\Student Grade Management System\obj\Debug\net8.0-windows\Student Grade Management System.genruntimeconfig.cache
+C:\Users\pc\Desktop\Student Grade Management System\obj\Debug\net8.0-windows\ref\Student Grade Management System.dll
